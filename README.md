@@ -1,7 +1,7 @@
 # KatBot
 Welcome to KatBot! KatBot is a simple Discord bot which allows common tasks to be done inside Discord. 
 
-Want to have KatBot in your discord server? Add it using this link : https://discordapp.com/oauth2/authorize?client_id=277953422848819212&scope=bot&permissions=8
+Want to have KatBot in your discord server? Add it using this link : https://kittyhacker101.tk/KatBot.html
 
 # Commands
 - help - Display a list of commands
